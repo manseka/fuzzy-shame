@@ -1,6 +1,8 @@
 <?php
 
 /* 
+ * @Autor: Alvarez Lucas
+ * @Fecha: 01/10/2013
  * Configurar Aqui los datos para la conexion.
  * 
  * 
